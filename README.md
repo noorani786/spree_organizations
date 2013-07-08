@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 SpreeOrganizations
 ==================
 
-Introduction goes here.
+Allows the ability to create an organization and add/remove members to it.  You can allow users to share various operations such as buy on behalf of an organization using the same billing info, etc.
 
 Installation
 ------------
@@ -43,5 +42,3 @@ Copyright (c) 2013 [name of extension creator], released under the New BSD Licen
 spree_organizations
 ===================
 
-Allows the ability to create an organization and add/remove members to it.  You can allow users to share various operations such as buy on behalf of an organization using the same billing info, etc.
->>>>>>> ec7f5a774b74136129ec4ad195da08df2bfaa69d
