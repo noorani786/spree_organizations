@@ -36,9 +36,3 @@ Simply add this require statement to your spec_helper:
 ```ruby
 require 'spree_organizations/factories'
 ```
-
-Copyright (c) 2013 [name of extension creator], released under the New BSD License
-=======
-spree_organizations
-===================
-
