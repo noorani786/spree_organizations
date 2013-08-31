@@ -8,6 +8,9 @@ module Spree
     validates :name, presence: true
     validates :owner, presence: true
          
+    # adddresses are tied to org members rather than the org.  this give us more
+    # flexibility is letting the user add/remove multiple addresses
+    
     def just_members
       members - [owner]
     end
